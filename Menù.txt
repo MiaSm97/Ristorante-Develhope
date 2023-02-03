@@ -1,1 +1,28 @@
+"GitRestaurant"
 
+Menù del giorno a base di pesce:
+
+Primi piatti:
+
+Paccheri alla gransevola, Spaghetti allo scoglio, Risotto ai frutti di mare, Pasta e fagioli con le cozze
+
+=======
+
+Secondi piatti:
+-Branzino alla ligure
+-fritto misto di mare
+-salmone alla piastra con patate al forno
+-calamari ripieni
+
+=======
+
+Dolci:
+tiramisù 
+gianduiotto maxi
+
+affogatto al bicerin
+
+=======
+Bevande: 
+
+Vino rosso, Vino bianco, Acqua naturale, Acqua minerale, Caffè, Liquori
